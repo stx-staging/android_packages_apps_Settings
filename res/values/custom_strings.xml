@@ -212,4 +212,10 @@
     <!-- DT2S on statusbar -->
     <string name="double_tap_to_sleep_title">Double tap to sleep on statusbar</string>
     <string name="double_tap_to_sleep_summary">Double tap on statusbar to switch the screen off</string>
+
+    <!-- Home handle sizing -->
+    <string name="home_handle_sizer_title">Gesture bar size</string>
+    <string name="home_handle_low_label">Small (AOSP)</string>
+    <string name="home_handle_high_label">Long</string>
+
 </resources>
