@@ -15,5 +15,5 @@
 
     <!-- StatiXOS version -->
     <string name="statix_version">StatiXOS version</string>
-    <string name="statix_version_default">Unknown</string>
+    <string name="statix_version_default">5.0 B1</string>
 </resources>
